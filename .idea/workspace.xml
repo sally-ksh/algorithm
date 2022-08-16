@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="fix">
+    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="🌱 프로그래머스 신고 결과 받기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,8 @@
       <option name="presentableId" value="Default" />
       <updated>1659534909570</updated>
       <workItem from="1659534910883" duration="843000" />
-      <workItem from="1660453992614" duration="1304000" />
+      <workItem from="1660453992614" duration="1827000" />
+      <workItem from="1660650347894" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⁉️프로그래머스 입국심사 (이진탐색 - 파라메트릭 서치)">
       <created>1659535678503</created>
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660454363736</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="🌱 프로그래머스 신고 결과 받기">
+      <created>1660455595644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660455595644</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: ⁉️프로그래머스 입국심사 (이진탐색 - 파라메트릭 서치)" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value=" 프로그래머스 신고 결과 받기" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 프로그래머스 신고 결과 받기" />
   </component>
 </project>
