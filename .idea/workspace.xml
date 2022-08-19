@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="⭐️ 프로그래머스 신규아이디추천">
+    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="⭐ 프로그래머스 키패드 누르기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
       <workItem from="1660453992614" duration="1827000" />
       <workItem from="1660650347894" duration="1480000" />
       <workItem from="1660724446967" duration="830000" />
+      <workItem from="1660725305550" duration="397000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⁉️프로그래머스 입국심사 (이진탐색 - 파라메트릭 서치)">
       <created>1659535678503</created>
@@ -83,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660651245049</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="⭐ 프로그래머스 숫자 문자열과 영단어">
+      <created>1660725587467</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660725587467</updated>
+    </task>
+    <task id="LOCAL-00008" summary="⭐ 프로그래머스 키패드 누르기">
+      <created>1660725600915</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660725600915</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +120,8 @@
     <MESSAGE value="fix" />
     <MESSAGE value=" 프로그래머스 신고 결과 받기" />
     <MESSAGE value="⭐️ 프로그래머스 신규아이디추천" />
-    <option name="LAST_COMMIT_MESSAGE" value="⭐️ 프로그래머스 신규아이디추천" />
+    <MESSAGE value="⭐ 프로그래머스 숫자 문자열과 영단어" />
+    <MESSAGE value="⭐ 프로그래머스 키패드 누르기" />
+    <option name="LAST_COMMIT_MESSAGE" value="⭐ 프로그래머스 키패드 누르기" />
   </component>
 </project>
