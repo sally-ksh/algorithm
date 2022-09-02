@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="⭐ 프로그래머스 크레인 인형 뽑기">
+    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="⭐ boj 카드 11654">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,8 @@
       <workItem from="1660724446967" duration="830000" />
       <workItem from="1660725305550" duration="397000" />
       <workItem from="1660906961937" duration="271000" />
-      <workItem from="1662027592376" duration="689000" />
+      <workItem from="1662027592376" duration="1018000" />
+      <workItem from="1662127698836" duration="175000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⁉️프로그래머스 입국심사 (이진탐색 - 파라메트릭 서치)">
       <created>1659535678503</created>
@@ -107,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660907205142</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="⭐ boj 카드 11654">
+      <created>1662028525382</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662028525382</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +140,7 @@
     <MESSAGE value="⭐ 프로그래머스 숫자 문자열과 영단어" />
     <MESSAGE value="⭐ 프로그래머스 키패드 누르기" />
     <MESSAGE value="⭐ 프로그래머스 크레인 인형 뽑기" />
-    <option name="LAST_COMMIT_MESSAGE" value="⭐ 프로그래머스 크레인 인형 뽑기" />
+    <MESSAGE value="⭐ boj 카드 11654" />
+    <option name="LAST_COMMIT_MESSAGE" value="⭐ boj 카드 11654" />
   </component>
 </project>
