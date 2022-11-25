@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="Add 🌱 자료구조 - Map 기본기능 구현 (1)&#10;&#10;- 저장, 조회, 삭제시 O(n) 시간복잡도를 가지지만&#10;- Map의 기본 기능 구현을 통해 기능을 위한 공간 할당 로직과 검증에 대해 고민하며 작업했습니다.">
+    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="Add 🌱 정렬 - 버블정렬&#10;&#10;- O9n^2) 순회와 재귀 방식으로 구현">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,10 @@
       <workItem from="1666619392252" duration="889000" />
       <workItem from="1666879913085" duration="1207000" />
       <workItem from="1666881249228" duration="19000" />
-      <workItem from="1666958695206" duration="302000" />
+      <workItem from="1666958695206" duration="417000" />
+      <workItem from="1666959131633" duration="29000" />
+      <workItem from="1667102674551" duration="343000" />
+      <workItem from="1669375702171" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⁉️프로그래머스 입국심사 (이진탐색 - 파라메트릭 서치)">
       <created>1659535678503</created>
@@ -181,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666881125246</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add 🌱 정렬 - 버블정렬&#10;&#10;- O9n^2) 순회와 재귀 방식으로 구현">
+      <created>1666959111960</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666959111960</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +225,7 @@
     <MESSAGE value="Fis  자료구조 - SingleLinkedList - getFromLast( nth )" />
     <MESSAGE value="Add  자료구조 - 링크드리스트 LRU캐시 구현(1)&#10;&#10;- 탐색 시간이 O(n)인 LRU 캐시 구현" />
     <MESSAGE value="Add  자료구조 - Map 기본기능 구현 (1)&#10;&#10;- 저장, 조회, 삭제시 O(n) 시간복잡도를 가지지만&#10;- Map의 기본 기능 구현을 통해 기능을 위한 공간 할당 로직과 검증에 대해 고민하며 작업했습니다." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add  자료구조 - Map 기본기능 구현 (1)&#10;&#10;- 저장, 조회, 삭제시 O(n) 시간복잡도를 가지지만&#10;- Map의 기본 기능 구현을 통해 기능을 위한 공간 할당 로직과 검증에 대해 고민하며 작업했습니다." />
+    <MESSAGE value="Add  정렬 - 버블정렬&#10;&#10;- O9n^2) 순회와 재귀 방식으로 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add  정렬 - 버블정렬&#10;&#10;- O9n^2) 순회와 재귀 방식으로 구현" />
   </component>
 </project>
