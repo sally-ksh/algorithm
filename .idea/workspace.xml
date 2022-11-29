@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="Add 🌱 이진트리의 최대 깊이 구하기&#10;&#10;- DFS, BFS, Stack 활용한 DFS">
+    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="Add 🌱 Meeting Rooms II (Intervals)&#10;&#10;- LeetCode 253&#10;- min-heap or List">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,8 @@
       <workItem from="1666959131633" duration="29000" />
       <workItem from="1667102674551" duration="343000" />
       <workItem from="1669375702171" duration="648000" />
-      <workItem from="1669626569269" duration="1171000" />
+      <workItem from="1669626569269" duration="1471000" />
+      <workItem from="1669729943970" duration="631000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⁉️프로그래머스 입국심사 (이진탐색 - 파라메트릭 서치)">
       <created>1659535678503</created>
@@ -199,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669376303928</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add 🌱 Meeting Rooms II (Intervals)&#10;&#10;- LeetCode 253&#10;- min-heap or List">
+      <created>1669628028567</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669628028567</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +243,7 @@
     <MESSAGE value="Add  자료구조 - Map 기본기능 구현 (1)&#10;&#10;- 저장, 조회, 삭제시 O(n) 시간복잡도를 가지지만&#10;- Map의 기본 기능 구현을 통해 기능을 위한 공간 할당 로직과 검증에 대해 고민하며 작업했습니다." />
     <MESSAGE value="Add  정렬 - 버블정렬&#10;&#10;- O9n^2) 순회와 재귀 방식으로 구현" />
     <MESSAGE value="Add  이진트리의 최대 깊이 구하기&#10;&#10;- DFS, BFS, Stack 활용한 DFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add  이진트리의 최대 깊이 구하기&#10;&#10;- DFS, BFS, Stack 활용한 DFS" />
+    <MESSAGE value="Add  Meeting Rooms II (Intervals)&#10;&#10;- LeetCode 253&#10;- min-heap or List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add  Meeting Rooms II (Intervals)&#10;&#10;- LeetCode 253&#10;- min-heap or List" />
   </component>
 </project>
