@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="Add 🌱 Meeting Rooms II (Intervals)&#10;&#10;- LeetCode 253&#10;- min-heap or List">
+    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="Add 🌱 LeetCode 56. Merge Intervals (Intervals)&#10;&#10;- stack -&gt; array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,9 @@
       <workItem from="1667102674551" duration="343000" />
       <workItem from="1669375702171" duration="648000" />
       <workItem from="1669626569269" duration="1471000" />
-      <workItem from="1669729943970" duration="631000" />
+      <workItem from="1669729943970" duration="689000" />
+      <workItem from="1669733764133" duration="3000" />
+      <workItem from="1669813816013" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⁉️프로그래머스 입국심사 (이진탐색 - 파라메트릭 서치)">
       <created>1659535678503</created>
@@ -207,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669628028567</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add 🌱 LeetCode 56. Merge Intervals (Intervals)&#10;&#10;- stack -&gt; array">
+      <created>1669730618151</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1669730618151</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +253,7 @@
     <MESSAGE value="Add  정렬 - 버블정렬&#10;&#10;- O9n^2) 순회와 재귀 방식으로 구현" />
     <MESSAGE value="Add  이진트리의 최대 깊이 구하기&#10;&#10;- DFS, BFS, Stack 활용한 DFS" />
     <MESSAGE value="Add  Meeting Rooms II (Intervals)&#10;&#10;- LeetCode 253&#10;- min-heap or List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add  Meeting Rooms II (Intervals)&#10;&#10;- LeetCode 253&#10;- min-heap or List" />
+    <MESSAGE value="Add  LeetCode 56. Merge Intervals (Intervals)&#10;&#10;- stack -&gt; array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add  LeetCode 56. Merge Intervals (Intervals)&#10;&#10;- stack -&gt; array" />
   </component>
 </project>
