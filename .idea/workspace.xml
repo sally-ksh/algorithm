@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="Add 🌱 LeetCode 150. Evaluate Reverse Polish Notation&#10;&#10;- Stack" />
+    <list default="true" id="d41723db-3b19-442f-b97b-942f195da989" name="변경" comment="Add 🌱 LeetCode 150. Evaluate Reverse Polish Notation&#10;&#10;- Stack">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +62,7 @@
       <workItem from="1669733764133" duration="3000" />
       <workItem from="1669813816013" duration="433000" />
       <workItem from="1669904074126" duration="929000" />
+      <workItem from="1669978933578" duration="1099000" />
     </task>
     <task id="LOCAL-00001" summary="feat: ⁉️프로그래머스 입국심사 (이진탐색 - 파라메트릭 서치)">
       <created>1659535678503</created>
