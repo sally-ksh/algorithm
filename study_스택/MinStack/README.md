@@ -153,11 +153,11 @@ class MinStack {
         }
         
         public boolean isRemoveLast(int stackPeekValue) {
-            if(this.min == stackPeekValue && this.count > 0) {
+             if(isSameAs(stackPeekValue) && this.count > 0) {
                 this.count--;
                 return true;
             } 
-            if(this.min != stackPeekValue) {
+            if(!isSameAs(stackPeekValue)) {
                 return true;
             } 
             // if(this.count <= 0){
